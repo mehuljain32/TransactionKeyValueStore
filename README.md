@@ -11,4 +11,5 @@ ROLLBACK
 COMMIT
 
 -Currently data is non-persistent(if shell is terminated, data is not persisted)
+
 -Key values can only be string
